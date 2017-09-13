@@ -5,6 +5,7 @@
  *    Level 0// This recipe says "hi" to the user
 
  1. Create a class called Greeter
+ 
  2. Add a main method
  3. Use JOptionPane.showInputDialog to ask them their name, e.g. What is your name?
     HINT: Use a variable to store their name
